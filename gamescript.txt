@@ -1,0 +1,4 @@
+this is a role playing adventure game in which you are playing the role of the citizen who wants to be the king of ancient rome.
+Story is set in long ago in 753 century BC when the Rome was founded by Romulus and Remus, the twin sons of Mars, the God of War.
+The player wants to be the King of the Rome to untangle the issues he sees in daily Life. But to be The King of Ancient Rome the player needs to collect 7 badges from the 7 Kings each having kingdom on one of the hills from 7 Hills. Each can can only give his badge if the player proves his worth to the king.
+to Judge the worth King assigns the Tasks(which can be anything from difficult games to Life dealing Battles). The player has some needs like travelling cost, foods, health, weapons for which sometimes he needs to Play Gladiator games which helds at Coliseum. There are checkpoints after collecting each Badge, The game overs after the player wins, that is when he becomes THE KING. 
